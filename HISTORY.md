@@ -9,6 +9,17 @@
 $ sudo install notary
 $ notary -s https://notary.docker.io -d ~/.docker/trust list docker.io/library/alpine
 ```
+    - install docker-compose, docker-machine in /usr/local/bin
+```
+$ docker-compose --version
+docker-compose version 1.22.0, build f46880fe
+$ docker-machine --version
+docker-machine version 0.15.0, build b48dc28
+$ /usr/local/bin/docker-compose --version
+docker-compose version 1.24.0, build 0aa59064
+$ /usr/local/bin/docker-machine --version
+docker-machine version 0.16.0, build 702c267f
+```
     - install docker successfully
 ```
 $ docker version

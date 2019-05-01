@@ -27,6 +27,15 @@ Server: Docker Engine - Community
   Built:            Thu Apr 11 04:10:53 2019
   OS/Arch:          linux/amd64
   Experimental:     false
+$ systemctl status docker
+● docker.service - Docker Application Container Engine
+   Loaded: loaded (/lib/systemd/system/docker.service; enabled; vendor preset: enabled)
+   Active: active (running) since Wed 2019-05-01 12:34:00 KST; 1h 18min ago
+     Docs: https://docs.docker.com
+ Main PID: 14737 (dockerd)
+    Tasks: 14
+   CGroup: /system.slice/docker.service
+           └─14737 /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock
 ```
     - clean the old docker and reinstall a new one
 ```
@@ -41,6 +50,7 @@ $ sudo apt-key fingerprint 0EBFCD88
 $ sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
 $ sudo apt-get update
 $ sudo apt-get install docker-ce docker-ce-cli containerd.io
+$ sudo usermod -aG docker <your-user>
 $ apt-cache madison docker-ce
 $ sudo docker run hello-world
 ```

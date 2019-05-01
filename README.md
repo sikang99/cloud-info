@@ -37,6 +37,7 @@ Information for Cloud Operation
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes
 - [kubernauts/tk8](https://github.com/kubernauts/tk8) - CLI to deploy Kubernetes using Kubespray, RKE or OKD and deploy additional addons
 - [InVisionApp/go-health](https://github.com/InVisionApp/go-health) - Library for enabling asynchronous health checks in your service
+- [garystafford/k8s-istio-observe-frontend](https://github.com/garystafford/k8s-istio-observe-frontend) - Angular 7-based front-end UI for k8s Golang observability project
 
 
 ---

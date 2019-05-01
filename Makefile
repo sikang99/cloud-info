@@ -7,13 +7,16 @@ usage:
 	@echo "usage: make [edit|build|run|git]"
 # ---------------------------------------------------------------------------
 edit e:
-	@echo "make (edit) [make|readme|go]"
+	@echo "make (edit) [make|readme|history]"
 
 edit-make em:
 	$(EDIT) Makefile
 
 edit-readme er:
 	$(EDIT) README.md
+
+edit-history eh:
+	$(EDIT) HISTORY.md
 # ---------------------------------------------------------------------------
 git g:
 	@echo ""

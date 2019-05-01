@@ -14,4 +14,9 @@
 
 ### Open Source
 - [InVisionApp/go-health](https://github.com/InVisionApp/go-health) - Library for enabling asynchronous health checks in your service
-- [360EntSecGroup-Skylar/excelize](https://github.com/360EntSecGroup-Skylar/excelize) - Golang library for reading and writing Microsoft Excel™ (XLSX) files
+- [360EntSecGroup-Skylar/excelize](https://github.com/360EntSecGroup-Skylar/excelize) - Golang library for reading and writing Microsoft Excel(XLSX) files
+
+
+### Open Source for Tools
+- [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
+- [myitcv/govim](https://github.com/myitcv/govim) -  Go development plugin for Vim8, written in Go

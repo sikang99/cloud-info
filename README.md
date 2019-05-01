@@ -15,8 +15,11 @@ Information for Cloud Operation
 ## Kubenetes
 
 ### History
+- 2017/09/11 [Local Development Environment for Kubernetes using Minikube](https://www.abhishek-tiwari.com/local-development-environment-for-kubernetes-using-minikube/)
+
 
 ### Information
+- [Kubernauts](https://kubernauts.io/)
 
 
 ### Slides
@@ -25,6 +28,8 @@ Information for Cloud Operation
 
 ### Open Source
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes
+- [kubernauts/tk8](https://github.com/kubernauts/tk8) - CLI to deploy Kubernetes using Kubespray, RKE or OKD and deploy additional addons
+
 
 ---
 ## Serverless

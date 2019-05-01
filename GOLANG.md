@@ -9,6 +9,7 @@
 
 
 ### Information
+- [Golang Weekly](https://golangweekly.com/) - A weekly newsletter about the Go programming language
 
 
 ### Open Source

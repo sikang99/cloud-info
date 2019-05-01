@@ -11,6 +11,10 @@ Information for Cloud Operation
     - [Install Docker Machine](https://docs.docker.com/machine/install-machine/) - 1.16
     - [Getting started with Docker Notary](https://docs.docker.com/notary/getting_started/)
 - [Cloud Native Computing Foundation: CNCF](https://www.cncf.io/)
+- [Protocol Buffers](https://developers.google.com/protocol-buffers/)
+
+### Open Source
+- [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 
 
 ---

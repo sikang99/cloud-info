@@ -6,8 +6,9 @@ Information for Cloud Operation
 
 ### Information
 - [Docker Documentation](https://docs.docker.com/)
-    - [Get Docker CE for Ubuntu](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
-
+    - [Get Docker CE for Ubuntu](https://docs.docker.com/install/linux/docker-ce/ubuntu/) - 18.09
+    - [Install Docker Compose](https://docs.docker.com/compose/install/) - 1.24
+    - [Getting started with Docker Notary](https://docs.docker.com/notary/getting_started/)
 
 
 

@@ -4,6 +4,12 @@
 ### History
 
 * 2019/09/05 (Tue):
+    - install notary for docker checking
+```
+$ sudo install notary
+$ notary -s https://notary.docker.io -d ~/.docker/trust list docker.io/library/alpine
+```
+    - install docker successfully
 ```
 $ docker version
 Client:

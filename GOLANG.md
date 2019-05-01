@@ -18,5 +18,6 @@
 
 
 ### Open Source for Tools
+- [My Vim IDE setup for Go](https://tpaschalis.github.io/vim-go-setup/)
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
 - [myitcv/govim](https://github.com/myitcv/govim) -  Go development plugin for Vim8, written in Go

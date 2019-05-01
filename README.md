@@ -37,5 +37,10 @@ Information for Cloud Operation
 ---
 ## Serverless
 
+### History
+- 2019/05/01 [구글, 도커 컨테이너 기반 서버리스 서비스인 클라우드 런 발표](https://www.44bits.io/ko/post/news--cloud-run-is-launched-on-gcp)
+
+
+
 
 

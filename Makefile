@@ -17,6 +17,9 @@ edit-readme er:
 
 edit-history eh:
 	$(EDIT) HISTORY.md
+
+edit-golang eg:
+	$(EDIT) GOLANG.md
 # ---------------------------------------------------------------------------
 git g:
 	@echo ""

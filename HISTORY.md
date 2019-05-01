@@ -1,6 +1,3 @@
-
-
-
 ## Operation
 
 
@@ -27,6 +24,7 @@ Server: Docker Engine - Community
   Built:            Thu Apr 11 04:10:53 2019
   OS/Arch:          linux/amd64
   Experimental:     false
+
 $ systemctl status docker
 ● docker.service - Docker Application Container Engine
    Loaded: loaded (/lib/systemd/system/docker.service; enabled; vendor preset: enabled)
@@ -40,9 +38,10 @@ $ systemctl status docker
     - clean the old docker and reinstall a new one
 ```
 # clean the existing installation at first
-$ sudo apt purge docker-ce docker-ce-cli containerd.io
-$ sudo rm -rf /var/lib/docker /etc/docker/*
+$ sudo rm -rf /var/lib/docker /etc/docker
 $ sudo rm -f /etc/apt/source.list.d/docker*
+$ sudo apt purge docker-ce docker-ce-cli containerd.io
+
 # re-install the docker
 $ sudo apt-get install apt-transport-https ca-certificates curl gnupg-agent software-properties-common
 $ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -

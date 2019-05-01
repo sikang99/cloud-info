@@ -4,7 +4,7 @@
 EDIT=vi
 all: usage
 usage:
-	@echo "usage: make [edit|build|run|git]"
+	@echo "usage: make [edit|git]"
 # ---------------------------------------------------------------------------
 edit e:
 	@echo "make (edit) [make|readme|history]"
@@ -25,10 +25,10 @@ git g:
 
 git-update gu:
 	git add Makefile *.md
-	git commit -m "initial commit"
+	#git commit -m "initial commit"
 	#git remote remove go.mod sse.go
 	#git commit -m "add examples"
-	#git commit -m "update contents"
+	git commit -m "update contents"
 	git push
 
 git-login gl:

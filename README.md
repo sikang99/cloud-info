@@ -10,6 +10,7 @@ Information for Cloud Operation
     - [Install Docker Compose](https://docs.docker.com/compose/install/) - 1.24
     - [Install Docker Machine](https://docs.docker.com/machine/install-machine/) - 1.16
     - [Getting started with Docker Notary](https://docs.docker.com/notary/getting_started/)
+- [Docker Hub](https://hub.docker.com/search/?type=image)
 - [Cloud Native Computing Foundation: CNCF](https://www.cncf.io/)
 - [Protocol Buffers](https://developers.google.com/protocol-buffers/)
 
@@ -52,6 +53,18 @@ Information for Cloud Operation
 ### Open Source
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services
 
+
+
+---
+## Architecture
+### History
+- 2019/03/12 [소프트웨어 아키텍쳐에 대해 알아보기](https://brunch.co.kr/@mobiinside/1514)
+
+
+### Information
+
+
+### Open Source
 
 
 

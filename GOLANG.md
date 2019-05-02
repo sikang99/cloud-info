@@ -6,6 +6,7 @@
 - 2019/04/21 [Diving Into Golang Channels](https://itnext.io/diving-into-golang-channels-e9e610d586e8)
 - 2019/04/18 [Istio Observability with Go, gRPC, and Protocol Buffers-based Microservices](https://itnext.io/istio-observability-with-go-grpc-and-protocol-buffers-based-microservices-d09e34c1255a)
 - 2019/03/27 [Introduction to the Modern Server-side Stack — Golang, Protobuf, and gRPC](https://medium.com/velotio-perspectives/introduction-to-the-modern-server-side-stack-golang-protobuf-and-grpc-40407486568)
+- 2018/09/18 [How Batch Processing Improve Your Service (Go)](https://medium.com/@herryg91/how-batch-processing-improve-your-service-go-c8215c2c870e)
 - 2016/08/14 [How To Create Health Check For RESTful Microservice In Golang](http://goinbigdata.com/how-to-create-health-check-for-restful-microservice-in-golang/)
 
 

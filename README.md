@@ -22,6 +22,7 @@ Information for Cloud Operation
 ## Kubenetes
 
 ### History
+- 2019/03/15 [**Kubernetes Architecture: Components & Why need kubernetes?**](https://medium.com/@uzzal2k5/kubernetes-architecture-components-why-need-kubernetes-82202d1cc1cf)
 - 2019/03/11 [Kubernetes-based Microservice Observability with Istio Service Mesh: Part 1](https://itnext.io/kubernetes-based-microservice-observability-with-istio-service-mesh-part-1-bed3dd0fac0b)
 - 2017/09/11 [Local Development Environment for Kubernetes using Minikube](https://www.abhishek-tiwari.com/local-development-environment-for-kubernetes-using-minikube/)
 
